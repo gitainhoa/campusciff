@@ -2,10 +2,7 @@
 Repositorio para las prácticas del módulo Data Science ToolKit
 ### Comandos utilizados y descripción
 
-1. Creo desde github un repositorio llamado campusciff. Marco la opción para crear automáticamente un README.md. 
-
-
-
+1. Creo desde github un repositorio llamado campusciff. Marco la opción para crear automáticamente un README.md.
 
 2. Inicializo el repositorio.
 ```sh
@@ -13,7 +10,7 @@ Repositorio para las prácticas del módulo Data Science ToolKit
 	```	
 3. Clono el repositorio remoto (se trae el README.md)
 	```sh
-	$ git clone git@github.com:AinhoaCE/ejerciciostoolkit.git
+	$ git clone git@github.com:gitainhoa/campusciff.git
 	```
 4. Subo al stage
 	```shgit 
@@ -52,3 +49,8 @@ privada\
 	$ git add .
 	$ git commit -m "actulizado README.md"
 	```
+10. Creo y subo etiquetas
+	```sh
+	$ git tag v0.1
+	$ git push --tag origin master
+	``` 
