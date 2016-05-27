@@ -94,3 +94,11 @@ privada\
 Activado el doble factor de seguridad
 	
 19. Clave pública. Ya estaba añadida
+
+20. Tabla con compañeros
+
+	| Nombre | Github |
+	| ---------- | ---------- |
+	| AAA  | https://github.com/AAA/campusciff.git   |
+	| BBB   | https://github.com/BBB/campusciff.git   |
+	| CCC  | https://github.com/CCC/campusciff.git   |
